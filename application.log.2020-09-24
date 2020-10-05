@@ -1,4 +1,0 @@
-2020-09-24 10:39:57,828 51922660 [] [ INFO] http-nio-8080-exec-4 (AppService.java:getAllEnums:27)getAllEnums
-2020-09-24 15:21:50,639 0 [] [ INFO] http-nio-8080-exec-9 (AppService.java:getAllEnums:27)getAllEnums
-2020-09-24 16:35:12,924 0 [] [ INFO] http-nio-8080-exec-6 (AppService.java:getAllEnums:27)getAllEnums
-2020-09-24 16:39:12,153 239229 [] [ INFO] http-nio-8080-exec-2 (AppService.java:getAllEnums:27)getAllEnums
